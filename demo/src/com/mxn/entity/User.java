@@ -12,4 +12,7 @@ public class User {
      * 添加到GIt
      */
 
+    public static void main(String[] arg){
+       System.out.println(123);
+    }
 }
